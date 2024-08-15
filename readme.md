@@ -30,3 +30,7 @@ Our theory is that the async loading issue is caused by the fact that the `roist
 ## Usage
 
 Add this script to your pages template before calling Roistat's original script.
+
+## Q?
+
+Have any questions? [Create a new issue](https://github.com/dzatona/roistat-async-seo-fix/issues/new/choose), I will try to help you.
